@@ -1,4 +1,4 @@
-console.log('Starting...')
+console.log('💖💖 Starting... Please Wait ❤️❤️')
 let cluster = require('cluster')
 let path = require('path')
 let fs = require('fs')
@@ -8,7 +8,7 @@ const Readline = require('readline')
 const yargs = require('yargs/yargs')
 const rl = Readline.createInterface(process.stdin, process.stdout)
 
-CFonts.say('ShiraoriBOT\nMulti-device ', {
+CFonts.say('QUEEN\nNATSUMI\nMULTI DEVICE', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']
