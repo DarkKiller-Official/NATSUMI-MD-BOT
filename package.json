@@ -1,6 +1,6 @@
 {
-    "name": "ShiraoriBOT-Md",
-    "version": "0.5.1",
+    "name": "QueenNatsumi-MD",
+    "version": "1.0.0",
     "description": "Simle Bot WhatsApp with Baileys Multi Device",
     "depecrated": false,
     "main": "index.js",
@@ -21,22 +21,22 @@
         "js-whatsapp",
         "whatsapp",
         "ShiraoriBOT",
-        "wabot-aq"
+        "baileys-md"
     ],
-    "homepage": "https://github.com/ilmanhdyt/ShiraoriBOT-Md",
+    "homepage": "https://github.com/DarkKiller-Official/NATSUMI-MD-BOT",
     "author": {
-        "name": "Ilman"
+        "name": "DarkKiller-Official"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ilmanhdyt/ShiraoriBOT-Md.git"
+        "url": "git+https://github.com/DarkKiller-Official/NATSUMI-MD-BOT.git"
     },
     "bugs": {
-        "url": "https://github.com/ilmanhdyt/ShiraoriBOT-Md/issues"
+        "url": "https://github.com/DarkKiller-Official/NATSUMI-MD-BOT/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
-        "@adiwajshing/baileys": "github:adiwajshing/baileys",
+        "@adiwajshing/baileys": "^4.0.1",
         "@adiwajshing/keyed-db": "^0.2.4",
         "awesome-phonenumber": "^2.64.0",
         "axios": "^0.24.0",
